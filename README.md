@@ -13,6 +13,6 @@ https://www.youtube.com/watch?v=3y_REjOipuk
 
 
 Poster :
-![Poster](https://github.com/petious/Seculock/blob/master/Poster_Seculock.pdf)
+![Poster](https://github.com/petious/Seculock/blob/master/Poster_Seculock.png)
 
 
